@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="module14-updated-course-http-request" />
+    <orderEntry type="module" module-name="custom-hook-updated-course-module15" />
+    <orderEntry type="module" module-name="react-updated-course-from-module-16" />
   </component>
 </module>

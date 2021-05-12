@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../custom-hook-updated-course-module15/.idea/custom-hook-updated-course-module15.iml" filepath="$PROJECT_DIR$/../custom-hook-updated-course-module15/.idea/custom-hook-updated-course-module15.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/food-order-update-course.iml" filepath="$PROJECT_DIR$/.idea/food-order-update-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../module14-updated-course-http-request/.idea/module14-updated-course-http-request.iml" filepath="$PROJECT_DIR$/../module14-updated-course-http-request/.idea/module14-updated-course-http-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-updated-course-from-module-16/.idea/react-updated-course-from-module-16.iml" filepath="$PROJECT_DIR$/../react-updated-course-from-module-16/.idea/react-updated-course-from-module-16.iml" />
     </modules>
   </component>
 </project>

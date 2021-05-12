@@ -1,0 +1,22 @@
+.loader {
+    width: 15vw;
+    margin: 1rem auto;
+}
+
+.loader img {
+    display: block;
+    width: 100%;
+    border-radius: 50%;
+}
+
+@media all and (max-width: 1023px) {
+    .loader {
+        width: 20vw;
+    }
+}
+
+@media all and (max-width: 574px) {
+    .loader {
+        width: 25vw;
+    }
+}
